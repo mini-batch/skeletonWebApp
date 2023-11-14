@@ -10,7 +10,6 @@ hence I want a repo that can be used to quickstart a project for prototyping.
 - Jest for testing
 - Mongodb-memory-server for test databases ******(needs installing)
 - eslint with basic rules
-- 
 - Example project directory structure:
   - root/
     - backend/
