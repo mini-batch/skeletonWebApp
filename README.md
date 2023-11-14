@@ -25,6 +25,12 @@ hence I want a repo that can be used to quickstart a project for prototyping.
         - components/
         - services/
 
+## Usage
+
+1. Clone repo
+2. Delete .git/
+3. git init to create a new repo
+
 ### npm commands
 Run the following npm commands from the associated directory with "npm run \<command\>".
 #### root/
