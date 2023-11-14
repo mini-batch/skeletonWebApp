@@ -26,7 +26,7 @@ hence I want a repo that can be used to quickstart a project for prototyping.
         - services/
 
 ## Usage
-
+### Installation
 1. Clone repo
 2. Delete .git/
 3. git init to create a new repo
